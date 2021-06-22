@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Madushan Perera
+### Hi there 👋 About me? Yeah, I'm working on it. Until then check my repos. Thank you! 🌟
 
 <!--
 **mcperera/mcperera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
