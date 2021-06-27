@@ -1,6 +1,6 @@
-### Hi there 👋 About me? Yeah, I'm working on it. 
-### Until then check out my repos ([showcase](https://mcperera-showcase.vercel.app/)) or visit my [blog](https://www.mcperera.com/). 
-### Thank you for visiting me! 🌟
+#### Hi there 👋 About me? Yeah, I'm working on it. 
+#### Until then check out my repos ([showcase](https://mcperera-showcase.vercel.app/)) or visit my [blog](https://www.mcperera.com/). 
+#### Thank you for visiting me! 🌟
 
 <!--
 **mcperera/mcperera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
